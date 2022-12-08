@@ -1,2 +1,2 @@
-#!/bin/bash`:wq
-printf "%.2f" $NUM | sort
+#!/bin/bash
+printf "%0.2f\n" $NUM
